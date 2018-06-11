@@ -47,7 +47,7 @@ if (!window.SyntaxHighlighter) {
             },
             config: {
                 useScriptTags: true,
-                clipboardSwf: https://cdn.rawgit.com/smallonestep/syntaxhighlighter/master/clipboard.swf,
+                clipboardSwf: "https://cdn.rawgit.com/smallonestep/syntaxhighlighter/master/clipboard.swf",
                 toolbarItemWidth: 16,
                 toolbarItemHeight: 16,
                 bloggerMode: false,
